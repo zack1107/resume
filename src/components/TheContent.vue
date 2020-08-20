@@ -10,12 +10,12 @@
         </h1>
       </el-row>
     </header>
-    <el-row type="flex" align="middle">
+    <div class="content">
       <div id="left"></div>
       <div id="right">
         <div ref="myChart" style="width:100%;height:520px" id="myChart"></div>
       </div>
-    </el-row>
+    </div>
   </div>
 </template>
 
@@ -119,6 +119,27 @@ header {
 #left {
   display: inline-block;
   max-width: 50%;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media screen and (max-width: 400px){
+  #left{
+    display: block;
+    min-width: 100%;
+  }
+  #right{
+     display: block;
+    min-width: 100%;
+  }
+  .content{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  header{
+  }
 }
 #right {
   display: inline-block;
