@@ -125,7 +125,7 @@ header {
   justify-content: center;
   align-items: center;
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
   #left{
     display: block;
     min-width: 100%;
