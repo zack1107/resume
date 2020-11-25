@@ -16,7 +16,7 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 
 `北京嘉楠捷思科技有限公司`丨软件工程师丨 2018.11-2020.8
 
-作为软件工程师,参与了人工智能竞赛平台T*****i*****ensorRun,ToC端及其ToB端开发,企业内部Bug追踪管理系统,人员管理系统,的开发
+作为软件工程师,参与了人工智能竞赛平台TensorRun,ToC端及其ToB端开发,企业内部Bug追踪管理系统,人员管理系统,的开发
 
 除此之外,参与开发二代芯片kendryte K510芯片部分驱动开发
 
