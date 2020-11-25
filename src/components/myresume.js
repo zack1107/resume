@@ -1,4 +1,4 @@
-let str  =`# 基本信息 
+let str =`# 基本信息 
 求职意向:web前端  丨     意向城市:北京/深圳/上海
 
 邮箱：dashsoap1997@gmail.com 电话 13051721616
@@ -24,7 +24,7 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 企业项目 | **币印钱包/币印金融** | 2020.9-至今
 
 基于**Nuxt** 的生产项目，主要是针对公司的虚拟货币理财的购买与查看
-主要的技术栈有**Vue \ Nuxt \ ProtoBuf** 等等
+主要的技术栈有**Vue  Nuxt  ProtoBuf** 等等
 主要负责金融产品部分的编写与测试
 封装通用的数据展示组件比如 TimeLine BreadCrumb等等
 负责整个web项目的H5端兼容
