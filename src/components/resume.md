@@ -1,4 +1,4 @@
-let str  =`# 基本信息 
+# 基本信息 
 求职意向:web前端  丨     意向城市:北京/深圳/上海
 
 邮箱：dashsoap1997@gmail.com 电话 13051721616
@@ -9,11 +9,11 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 
 ## 工作经历
 
-**北京币印云算科技有限公司**丨web前端工程师丨 2020.9-至今
+`北京币印云算科技有限公司`丨web前端工程师丨 2020.9-至今
 
 作为前端开发工程师,中途参与币印钱包/币印金融的前端项目中,负责部分web端开发和H5开发
 
-**北京嘉楠捷思科技有限公司**丨软件工程师丨 2018.11-2020.8
+`北京嘉楠捷思科技有限公司`丨软件工程师丨 2018.11-2020.8
 
 作为软件工程师,参与了人工智能竞赛平台T*****i*****ensorRun,ToC端及其ToB端开发,企业内部Bug追踪管理系统,人员管理系统,的开发
 
@@ -61,5 +61,3 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 利用开源项目 Vue-Element-admin UI 框架开发，与后端工程师深入交流
 
 Api制定规范以及封装公用组件 例如：Axios/Uploader等等，编写业务界面等。
-`
-export default str
