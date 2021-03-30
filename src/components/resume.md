@@ -26,6 +26,7 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 
 项目是以太坊公链上的一款链上App，使用的技术展主要有 **react web3 react-hooks styled-components**等等
 主要负责PC/H5双端编写与适配，推动前端CI/CD 流程改进。封装常用组建。
+由于是第一次接触react项目，在简单的了解一下react之后，两个月之内交付了第一版，并且成功上线。锻炼了我的自学能力和抗压能力。
 
 企业项目 | **币印钱包/币印金融** | 2020.9-至今
 
@@ -33,7 +34,7 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 主要的技术栈有**Vue \ Nuxt \ ProtoBuf** 等等
 主要负责金融产品部分的编写与测试
 封装通用的数据展示组件比如 TimeLine BreadCrumb等等
-负责整个web项目的H5端兼容
+主要负责页面的H5兼容，主要方法为媒体查询。
 
 企业项目 | **内部中型信息管理系统** | 2019.11-2020.6
 
@@ -61,4 +62,12 @@ Github:<https://github.com/Dashsoap> 博客：<https://dashsoap.com>
 编写了部分功能组件，例如：无线滚动轴／上传组件
 
 项目一开始是后端工程师编写,逻辑问题,样式问题颇多，最后不畏艰难，按时上线.
+## 能力说明
 
+以**Vue**框架为主的技术栈，B/C端皆有项目经验。
+
+良好的学习能力与抗压能力，并且性格活泼外向，善于与人沟通。
+
+创业经历使我对产品有自己的见解。
+
+对金融与区块链行业比较熟悉。
