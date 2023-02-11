@@ -6,7 +6,7 @@
 
 ## 技能清单
 
-掌握 Java基础 | Spring | Springboot | SpringMVC | Mybatis | Mysql 
+掌握 Java基础 | JVM | Springboot | SpringMVC | Mybatis | Mysql 
 
 熟悉 Springcloud | Linux命令 | Redis | RocketMQ | Kafka | Elasticsearch | Oracle数据库 | Openstack命令 | Shell命令 | Docker | Socket | Https | Tcp/IP协议
 
